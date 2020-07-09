@@ -1,6 +1,7 @@
-KCon
+Thorn
 ====
 
-KCon is a famous Hacker Con powered by Knownsec Team.
+昨天是历史，明天是个迷，但今天是一份礼物。
+Yesterday is history, tomorrow is a mystery, but today is a gift.
 
-http://kcon.knownsec.com/
+www.theeva.top
